@@ -1,0 +1,10 @@
+.nav-bar {
+    color: rgb(124, 20, 138);
+}
+
+#timer {
+    text-align: right;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
