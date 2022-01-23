@@ -1,10 +1,40 @@
+body {
+    font-family: 'Chewy', cursive;
+}
+
 .nav-bar {
-    color: rgb(124, 20, 138);
+    color: #c8b7a6;
+    background-color: #7d94b5;
+    padding: 25px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+#highscore {
+    text-align: left;
+    position: absolute;
+    top: 25px;
+    left: 20px;
 }
 
 #timer {
     text-align: right;
     position: absolute;
-    top: 8px;
-    right: 16px;
+    top: 25px;
+    right: 20px;
+}
+
+#time-left {
+    color: #b6c199;
+}
+
+.container {
+    text-align: center;
+    color: #b6c199;
+    background-color: #703f37;
+    padding: 25px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.quiz-options {
+    padding-left: 0px;
 }
