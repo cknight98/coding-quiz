@@ -1,4 +1,4 @@
-# homework-four
+# coding-quiz
 This is a coding assessment that penalizes wrong answers by depleting the timer until your score is reached. Still need to add game over page as well as locally store initials/display highscores.
 
 https://cknight98.github.io/homework-four/
